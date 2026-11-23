@@ -99,7 +99,8 @@ WAStick consulta la **Ãºltima release** de este repositorio al abrirse. Si hay
 
 | VersiÃ³n | Novedades |
 |---|---|
-| **1.1.3** | Corrección del cierre al cargar GIF/WebP/video animados (nuevo codificador sin código nativo, APK más ligero) |
+| **1.1.4** | Medios estáticos y animados en el mismo paquete · Se quitó la opción de sticker individual |
+| 1.1.3 | Corrección del cierre al cargar GIF/WebP/video animados (nuevo codificador sin código nativo, APK más ligero) |
 | 1.1.2 | Actualización con barra de progreso y aviso de versión al día · Corrección de crash con GIF/WebP animados · Reenvío a WhatsApp con aviso de paquete ya cargado |
 | 1.1.1 | Ajustes rediseñados · Buscar actualizaciones desde la app · Creador visible |
 | 1.1.0 | Icono y logo nuevos Â· GIF/WebP/video animados Â· Nombre y autor solo al enviar a WhatsApp Â· "Volver a enviar a WhatsApp" Â· Actualizaciones desde GitHub |
@@ -115,8 +116,9 @@ WAStick consulta la **Ãºltima release** de este repositorio al abrirse. Si hay
 ---
 
 <p align="center">
-  <sub>Hecho para que tus stickers se vean bien en WhatsApp Â· WAStick 1.1.3</sub>
+  <sub>Hecho para que tus stickers se vean bien en WhatsApp Â· WAStick 1.1.4</sub>
 </p>
+
 
 
 
